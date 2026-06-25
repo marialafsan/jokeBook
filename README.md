@@ -12,15 +12,15 @@ It allows for the addition of more jokes and a list of the jokes already on it.
 ### *Features*
 
 > - [x] **First steps:** Definition of the project and version control on Git and GitHub
-- [ ] Creation of the **joke manager** 
-- [ ] **First uses** of the joke manager
+> - [x] Creation of the class **JokeManager** 
+> - [x] **First uses** of JokeManager 
 - [ ] Implementation of a **basic user interface**
 - [ ] Creation of a **menu** to interact with the user
   - [ ] First MVP
 
 ### *Enhancements*
 
-- [ ] ***List of jokes*** with previews
-- [ ] ***Random joke generator***
+> - [x] ***Random joke generator***
+- [ ] List of jokes with ***previews***
 - [ ] ***Fine tuning*** the menu and ***capturing exceptions***
 - [ ] ***Testing and debugging***
