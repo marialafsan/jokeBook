@@ -14,9 +14,9 @@ It allows for the addition of more jokes and a list of the jokes already on it.
 > - [x] **First steps:** Definition of the project and version control on Git and GitHub
 > - [x] Creation of the class **JokeManager** 
 > - [x] **First uses** of JokeManager 
-- [ ] Implementation of a **basic user interface**
-- [ ] Creation of a **menu** to interact with the user
-  - [ ] First MVP
+> - [x] Implementation of a **basic user interface**
+> - [x] Creation of a **menu** to interact with the user
+   >  - [x] First MVP
 
 ### *Enhancements*
 
