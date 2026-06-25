@@ -1,10 +1,18 @@
 import java.util.*;
 
+/**
+ * Starting point of the project. Right now it displays a use of the JokeManager class to try its functionalities
+ *
+ * @author Maria Lafuente
+ * @version 1.0
+ * @since 1.0
+ */
+
 public class Main {
 
     public static void main (String[] args) {
 
-        //trying out generating jokes from the main
+        // TESTS: Trying out generating jokes from the main
         Scanner scanner = new Scanner (System.in);
 
         JokeManager manager = new JokeManager();
