@@ -47,7 +47,8 @@ public class JokeManager {
     }
 
     /**
-     * Prints all of the jokes in the console
+     * Prints a three word preview of the jokes saved
+     * Divides the jokes by words using the spaces and prints the first 3 words of each
      */
     public void printJokes (){
 
@@ -55,8 +56,20 @@ public class JokeManager {
             System.out.println("No jokes! No kidding!");
 
         } else {
+            int index = 1;
+
             for (String joke:jokeBook){
-                System.out.println(joke);
+
+                String[] preview = joke.split(" ");
+                System.out.print(index + ". ");
+
+                for (int i = 0; i<3; i++){
+                    if(!(preview[i].isEmpty())){
+                        System.out.print(preview[i] + " ");
+                    }
+                }
+                System.out.println("...");
+                index++;
             }
         }
     }

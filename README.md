@@ -21,6 +21,6 @@ It allows for the addition of more jokes and a list of the jokes already on it.
 ### *Enhancements*
 
 > - [x] ***Random joke generator***
-- [ ] List of jokes with ***previews***
+> - [x] List of jokes with ***previews***
 - [ ] ***Fine tuning*** the menu and ***capturing exceptions***
 - [ ] ***Testing and debugging***
