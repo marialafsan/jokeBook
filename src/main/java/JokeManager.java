@@ -55,7 +55,9 @@ public class JokeManager {
             System.out.println("No jokes! No kidding!");
 
         } else {
-            System.out.println(jokeBook);
+            for (String joke:jokeBook){
+                System.out.println(joke);
+            }
         }
     }
 }
