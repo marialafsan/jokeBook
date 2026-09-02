@@ -1,4 +1,4 @@
-# jokeBook
+# Jokebook
 
 Creates a jokebook that can pull a random joke from a list. 
 It allows for the addition of more jokes and a list of the jokes already on it.
@@ -23,4 +23,3 @@ It allows for the addition of more jokes and a list of the jokes already on it.
 > - [x] ***Random joke generator***
 > - [x] List of jokes with ***previews***
 - [ ] ***Fine tuning*** the menu and ***capturing exceptions***
-- [ ] ***Testing and debugging***
